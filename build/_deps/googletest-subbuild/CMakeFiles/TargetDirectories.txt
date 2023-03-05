@@ -1,0 +1,3 @@
+/mnt/d/Code/IVS_1/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/mnt/d/Code/IVS_1/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/mnt/d/Code/IVS_1/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
